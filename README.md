@@ -6,6 +6,7 @@ Hi 👋 My name is Mujing !
 * 🚀  I'm currently working on [My Pro Guide: A Guide-Matching Website](http://guide.myproguide.com/)
 * 🧠  I'm learning Blockchain knowledge, especially EVM. (Learning Solidity at the moment)
 * 🤝  I'm open to collaborating on projects related to Defi or Finance.
+* 🚀  I'm currently in an [Advanced Solidity Bootcamp](https://www.encode.club/advanced-solidity-bootcamp) held by Encodeclub (until the end of March). 
 
 ### Skills
 
