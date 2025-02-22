@@ -12,7 +12,7 @@ Project Contributions
 ==========================
 
 ### 2025 
-[gakuon](https://github.com/Yukaii/gakuon) - Jan 2025
+[gakuon](https://github.com/Yukaii/gakuon)  
 - An AI-powered audio and content generation service for your existing Anki deck.
 - It use additional fields that wouldn't break your existing deck.
 - Also comes with a PWA app for listening through the audios on mobile
