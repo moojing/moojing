@@ -1,6 +1,11 @@
 Hi, it's Mujing here !
 ==========================
 
+
+https://github.com/user-attachments/assets/6cb010d0-a964-4fbb-a4b6-104a7cc1e7a3
+
+
+
 * 🌍  I'm currently based in London, UK
 * ✉️  You can contact me at [moojitsai@gmail.com](mailto:moojitsai@gmail.com)
 * 🚀  I'm currently working on [My Pro Guide: A Guide-Matching Website](http://guide.myproguide.com/)
